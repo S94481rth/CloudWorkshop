@@ -1,0 +1,24 @@
+{
+  "name": "cloudworkshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hello": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S94481rth/CloudWorkshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S94481rth/CloudWorkshop/issues"
+  },
+  "homepage": "https://github.com/S94481rth/CloudWorkshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
